@@ -1,2 +1,2 @@
 # clase_sistemas2
-cómo crear repositorios
+cómo crear repositorios cambiado
